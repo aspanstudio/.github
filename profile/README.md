@@ -1,7 +1,7 @@
 ## Hey, this is us 👋
 
 <p align="center">
-  <img src="./poster.png" alt="Studio poster" width="100%" />
+  <img src="../poster.png" alt="Studio poster" width="100%" />
 </p>
 
 We build digital products for businesses that care about first impressions, fast launches, and long-term growth.
